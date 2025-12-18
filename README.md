@@ -58,6 +58,9 @@ Most of my work focuses on transforming data into actionable insights and buildi
 - Structuring academic final projects in Informatics
 
 ### 📫 How to Reach Me
+- Gmail : ariepmade@gmail.com
+- Linkedin : https://www.linkedin.com/in/made-arief-budi-dharma-43482b285
+- Upwork : https://www.upwork.com/freelancers/~01069f5b0a7dfc06c8
 - GitHub: https://github.com/AriefMade
 
 ---
