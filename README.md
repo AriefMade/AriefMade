@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**AriefMade/AriefMade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills & Technologies
 
-Here are some ideas to get you started:
+**Languages:**
+- Python
+- Dart/Flutter
+- TypeScript
+- Java
+- PHP/Laravel (Blade)
+- HTML/CSS/Sass
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Projects:**
+- Mobile Apps (Flutter)
+- Web Development (TypeScript, Laravel, CSS)
+- Machine Learning (Python, XGBoost)
+- Algorithms & Data Structures
