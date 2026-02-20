@@ -26,7 +26,6 @@ from data processing and modeling to visualization and web deployment.
 ### 📫 Contact
 - Email: ariepmade@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/made-arief-budi-dharma-43482b285  
-- GitHub: https://github.com/AriefMade  
 - Upwork: https://www.upwork.com/freelancers/~01069f5b0a7dfc06c8
 
 *Always learning, always improving — building systems that matter.*
